@@ -1,4 +1,4 @@
-User Directory App
+#User Directory App
 
 A React Native application that displays a directory of users fetched from a remote API. This app allows users to search for users by name and view their details.
 
